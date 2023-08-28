@@ -1,0 +1,22 @@
+.breed-select {
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.breed-select.is-hidden {
+    display: none;
+}
+
+.cat-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+
+.text-wrap {
+    max-width: 50vw;
+    padding: 20px;
+    display: grid;
+    text-align: center;
+}
